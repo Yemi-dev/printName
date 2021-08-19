@@ -7,6 +7,6 @@ let user = {
 }
 
 intro.textContent = user.print();
-
+console.log (user.print());
 
 
